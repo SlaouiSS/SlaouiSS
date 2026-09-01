@@ -7,7 +7,7 @@ Senior **Java / Spring engineer (10+ yrs)** building **RAG & Agentic AI systems 
 - 💬 Ask me about **Spring AI · RAG pipelines · hybrid retrieval · semantic chunking · MCP**
 - 🛠️ Java 21 · Spring Boot · Spring AI · PGVector · PostgreSQL · Docker · Kubernetes
 - 💼 **Open to freelance / consulting missions** — Java/Spring + RAG/AI
-- 📫 [LinkedIn](https://www.linkedin.com/in/salaheddine-slaoui-04b49970/)
+- 📫 [LinkedIn](https://www.linkedin.com/in/salaheddine-slaoui-04b49970/) . s.slaoui.pro@gmail.com
 
 ### Open source
 
